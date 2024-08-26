@@ -13,6 +13,7 @@ public class Main {
         System.out.println(book);
         System.out.println(book2);
         System.out.println(book3);
+
         System.out.println(library);
 
         library.add(book2);
